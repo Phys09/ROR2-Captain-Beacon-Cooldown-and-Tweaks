@@ -4,7 +4,7 @@
   "website_url": "https://github.com/Phys09/ROR2-Captain-Beacon-Cooldown-and-Tweaks",
   "description": "A mod that gives cooldowns to captain's beacons with config support. In the future, may give captain some more tweaks such as orbital usage in areas such as the bazaar, or fix diablo strike to actually deal '40,000% damage to ALL characters'.",
   "dependencies": [
-    "bbepis-BepInExPack-5.4.2108",
+    "bbepis-BepInExPack-5.4.2113",
     "RiskofThunder-HookGenPatcher-1.2.3"
   ]
 }
