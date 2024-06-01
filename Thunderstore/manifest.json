@@ -1,12 +1,10 @@
 ﻿{
-	"name": "MyFirstMod",
-	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "My first Mod",
-	"dependencies": [
-		"bbepis-BepInExPack-5.4.2108",
-		"RiskofThunder-HookGenPatcher-1.2.3",
-		"RiskofThunder-R2API_Items-1.0.1",
-		"RiskofThunder-R2API_Language-1.0.0"
-	]
+  "name": "Captain_Beacon_Cooldown_and_Tweaks",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Phys09/ROR2-Captain-Beacon-Cooldown-and-Tweaks",
+  "description": "A mod that gives cooldowns to captain's beacons with config support. In the future, may give captain some more tweaks such as orbital usage in areas such as the bazaar, or fix diablo strike to actually deal '40,000% damage to ALL characters'.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2108",
+    "RiskofThunder-HookGenPatcher-1.2.3"
+  ]
 }
