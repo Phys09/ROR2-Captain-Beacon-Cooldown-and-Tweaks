@@ -18,3 +18,14 @@ C:\Users\michael\Desktop\CaptainBeaconCooldown\CaptainBeaconCooldown\obj\Debug\n
 C:\Users\michael\Desktop\CaptainBeaconCooldown\CaptainBeaconCooldown\bin\Debug\netstandard2.0\CaptainBeaconCooldown.deps.json
 C:\Users\michael\Desktop\CaptainBeaconCooldown\CaptainBeaconCooldown\bin\Debug\netstandard2.0\CaptainBeaconCooldown.dll
 C:\Users\michael\Desktop\CaptainBeaconCooldown\CaptainBeaconCooldown\bin\Debug\netstandard2.0\CaptainBeaconCooldown.pdb
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\bin\Debug\netstandard2.0\CaptainBeaconCooldown.deps.json
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\bin\Debug\netstandard2.0\CaptainBeaconCooldown.dll
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\bin\Debug\netstandard2.0\CaptainBeaconCooldown.pdb
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.AssemblyInfo.cs
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.sourcelink.json
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.dll
+C:\Users\Michael\Desktop\ROR2-Captain-Beacon-Cooldown-and-Tweaks\CaptainBeaconCooldown\obj\Debug\netstandard2.0\CaptainBeaconCooldown.pdb

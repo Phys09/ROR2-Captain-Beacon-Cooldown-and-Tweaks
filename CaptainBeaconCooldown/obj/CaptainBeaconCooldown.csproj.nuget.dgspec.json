@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michael\\Desktop\\CaptainBeaconCooldown\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj": {}
+    "C:\\Users\\hyper\\Desktop\\ROR2-Captain-Beacon-Cooldown-and-Tweaks\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michael\\Desktop\\CaptainBeaconCooldown\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj": {
+    "C:\\Users\\hyper\\Desktop\\ROR2-Captain-Beacon-Cooldown-and-Tweaks\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michael\\Desktop\\CaptainBeaconCooldown\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj",
+        "projectUniqueName": "C:\\Users\\hyper\\Desktop\\ROR2-Captain-Beacon-Cooldown-and-Tweaks\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj",
         "projectName": "CaptainBeaconCooldown",
-        "projectPath": "C:\\Users\\michael\\Desktop\\CaptainBeaconCooldown\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj",
-        "packagesPath": "C:\\Users\\michael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michael\\Desktop\\CaptainBeaconCooldown\\CaptainBeaconCooldown\\obj\\",
+        "projectPath": "C:\\Users\\hyper\\Desktop\\ROR2-Captain-Beacon-Cooldown-and-Tweaks\\CaptainBeaconCooldown\\CaptainBeaconCooldown.csproj",
+        "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hyper\\Desktop\\ROR2-Captain-Beacon-Cooldown-and-Tweaks\\CaptainBeaconCooldown\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\michael\\Desktop\\CaptainBeaconCooldown\\NuGet.Config",
-          "C:\\Users\\michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hyper\\Desktop\\ROR2-Captain-Beacon-Cooldown-and-Tweaks\\NuGet.Config",
+          "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.bepinex.dev/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -44,8 +45,8 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "BepInEx.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -59,16 +60,10 @@
             },
             "MMHOOK.RoR2": {
               "target": "Package",
-              "version": "[2022.9.20, )",
+              "version": "[2024.8.28, )",
               "noWarn": [
                 "NU1701"
               ]
-            },
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
             },
             "R2API.Items": {
               "target": "Package",
@@ -80,11 +75,12 @@
             },
             "RiskOfRain2.GameLibs": {
               "target": "Package",
-              "version": "[1.2.4-r.0, )"
+              "version": "[1.3.1.275-r.0, )"
             },
             "UnityEngine.Modules": {
+              "include": "Compile",
               "target": "Package",
-              "version": "[2019.4.26, )"
+              "version": "[2021.3.33, )"
             }
           },
           "imports": [
@@ -98,7 +94,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
